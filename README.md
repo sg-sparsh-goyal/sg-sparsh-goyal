@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Goyal</h1>
 <h3 align="center">Data Science enthusiast</h3>
 <p align="center">
-  <img src="0_H4cHks1eEdrW7Zlz.gif" alt="animated" />
+  <img src=""C:\Users\super\OneDrive\Desktop\0_H4cHks1eEdrW7Zlz.gif"" alt="animated" />
 </p>
 
  
