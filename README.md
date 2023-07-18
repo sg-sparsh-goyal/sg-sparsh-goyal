@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sparsh Goyal</h1>
 <h3 align="center">Data Science enthusiast</h3>
-<p align="center">
-  <img src=""C:\Users\super\OneDrive\Desktop\0_H4cHks1eEdrW7Zlz.gif"" alt="animated" />
-</p>
+
+  ![0_H4cHks1eEdrW7Zlz](https://github.com/sg-sparsh-goyal/sg-sparsh-goyal/assets/131648732/ed415b6c-0675-4504-9f55-2fda1b623308)
+
 
  
 - 🌱 I’m currently learning **Data Science**
