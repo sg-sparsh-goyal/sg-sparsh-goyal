@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, ML, C++**
+- 💬 Ask me about **Python, ML, Deep Learning**
 
 - 📫 How to reach me **sg.sparsh06@gmail.com**
 
