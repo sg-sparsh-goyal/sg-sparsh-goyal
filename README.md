@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F735&center=true&vCenter=true&width=435&lines=Data+Scientist+and+Analyst;In+Data+We+Trust+!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22F735&center=true&vCenter=true&width=435&lines=AI+Engineer+and+Data+Scientist;In+Data+We+Trust+!"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently pursuing **B.Tech**
 
-- 💬 Ask me about **Data Analysis and Data Science**
+- 💬 Ask me about **AI and Data Science**
 
 - 📫 How to reach me **sg.sparsh06@gmail.com**
 
